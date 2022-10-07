@@ -1,8 +1,8 @@
 👋 Olá, meu nome é Isabelle!
 
 🌱 Sou apaixonada por sistemas de Hardware, viva montando e desmontando computadores quebrados quando era uma pequena gafanhota. 
-- Sou curiosa e gosto de resolver problemas.
-- Adoro trabalho em equipe que envolva problemas relacionados a tecnologia.
+🌱 Sou curiosa e gosto de resolver problemas.
+🌱 Adoro trabalho em equipe que envolva problemas relacionados a tecnologia.
 
 - 📚 Estudando HTML5, CSS3 e JavaScript.
 - 🎓 Formada em Direito.
