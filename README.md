@@ -6,7 +6,7 @@
 
 - 📚 Estudando HTML5, CSS3 e JavaScript.
 - 🎓 Formada em Direito.
-- 📫 Dicas e insides? entra em contato comigo pelo isa_drika@hotmail.com 
+- 📫 Feedbacks, críticas construtivas ou só trocar um papo? Entra em contato comigo pelo isa_drika@hotmail.com
 
 <!---
 ZabisFer/ZabisFer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
