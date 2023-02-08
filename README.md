@@ -1,6 +1,6 @@
 👋 Olá, meu nome é Isabelle!
 
-🌱 Sou apaixonada por sistemas de Hardware, viva montando e desmontando computadores quebrados quando era uma pequena gafanhota. 
+🌱 Sou apaixonada por sistemas de Hardware, sempre montando e desmontando computadores quebrados - mesmo quando era uma pequena gafanhota. 
 🌱 Sou curiosa e gosto de resolver problemas.
 🌱 Adoro trabalho em equipe que envolva problemas relacionados a tecnologia.
 
